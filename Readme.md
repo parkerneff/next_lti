@@ -8,3 +8,4 @@ npm install --save next react react-
 
 # Reference
 https://github.com/zeit/next.js
+https://github.com/omsmith/ims-lti
